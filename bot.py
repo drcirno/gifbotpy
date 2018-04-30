@@ -106,4 +106,4 @@ async def tuturu(ctx):
 
 
 
-bot.run('NDM0ODEzMjU4NzcyMzgxNzI4.DbQDjA.lRYURqbcp132MT-J-3uL6G-leg8')
+bot.run('token')
